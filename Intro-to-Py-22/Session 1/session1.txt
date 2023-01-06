@@ -1,0 +1,2 @@
+During Session 1, students used the Carnegie Melon University Computer Science 0, 2nd Edition curriculum
+to learn the basics of Python syntax. Students completed up to Lesson 1.3 - Rectangles and Opacity
